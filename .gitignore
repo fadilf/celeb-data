@@ -1,1 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Tooling / agent scratch
+.claude/
+.agents/
 .entourage/
+skills-lock.json
+
+# marimo session cache
+__marimo__/
+
+# Run logs
+*.log
+
+# Generated notebook exports (rebuild from notebook.py)
+notebook.html
+notebook.pdf
+
+# Large dataset — distributed as a GitHub Release asset, not tracked in git
+# (127 MB, over GitHub's 100 MB per-file limit)
+pageviews_sitelink20.csv

@@ -1,7 +1,7 @@
 [project]
 name = "celeb-data"
 version = "0.1.0"
-description = "Wikipedia-pageview attention curves for notable celebrity deaths, 2010-2025."
+description = "Wikipedia-pageview attention curves for notable celebrity deaths, 2015-2025."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
